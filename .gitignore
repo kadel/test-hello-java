@@ -26,3 +26,4 @@ replay_pid*
 target/*
 
 .odo/odo-file-index.json
+.odo/devstate.json
